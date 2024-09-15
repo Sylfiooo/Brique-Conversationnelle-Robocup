@@ -1,7 +1,7 @@
 # Module de conversion de la parole au texte (STT)
 
 ### Navigation
-[HOME](https://gitlab.com/cpelyon/rob/5irc-2023-2024/projets/Sujet_2_Brique_Conversationnelle/S2_G2_Buniazet_Coudrais_Thomas/)  
+[HOME](https://github.com/Sylfiooo/Brique-Conversationnelle-Robocup)  
 [NLP](../nlp/)  
 [TTS](../tts/) 
 

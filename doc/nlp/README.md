@@ -1,7 +1,7 @@
 # Module de traitement automatique du langage naturel (NLP)
 
 ### Navigation
-[HOME](https://gitlab.com/cpelyon/rob/5irc-2023-2024/projets/Sujet_2_Brique_Conversationnelle/S2_G2_Buniazet_Coudrais_Thomas/)  
+[HOME](https://github.com/Sylfiooo/Brique-Conversationnelle-Robocup)  
 [STT](../stt/)  
 [TTS](../tts/) 
 

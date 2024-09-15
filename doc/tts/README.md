@@ -1,7 +1,7 @@
 # Module de conversion du texte à la parole (TTS)
 
 ### Navigation
-[HOME](https://gitlab.com/cpelyon/rob/5irc-2023-2024/projets/Sujet_2_Brique_Conversationnelle/S2_G2_Buniazet_Coudrais_Thomas/)  
+[HOME](https://github.com/Sylfiooo/Brique-Conversationnelle-Robocup)  
 [STT](../stt/)  
 [NLP](../nlp/)   
 
@@ -67,10 +67,10 @@ Le principe de ce module est de retranscrire un texte écrit en une voix qui le 
 - Transforme un texte en une suite de phonème qui forme une retranscription de ce texte 
 - Chacun propose ses propres phonèmes avec leur prononciation 
   - Caractéristiques dépendent directement du synthétiseur<br/><br/>
-- Souvent utilisé par des sytèmes pour l'audio-description instantané.
-  - Libraries python sont souvent un simple interface des [synthétiseur vocaux linux](https://doc.ubuntu-fr.org/synthese_vocale)
-  - Librairie pas tant nécéssaire => taper des lignes de commande en python<br/><br/>
-- Temps d'inférence imbatable => 0.1 sec
+- Souvent utilisé par des systèmes pour l'audiodescription instantané.
+  - Librairies python sont souvent un simple interface des [synthétiseur vocaux linux](https://doc.ubuntu-fr.org/synthese_vocale)
+  - Librairie pas tant nécessaires => taper des lignes de commande en python<br/><br/>
+- Temps d'inférence imbattable => 0.1 sec
 - Compréhension parfois problématique, voix souvent typé robotique
 
 #### Intelligence Artificielle
@@ -91,7 +91,7 @@ Le principe de ce module est de retranscrire un texte écrit en une voix qui le 
 
 #### Online
 - Modèle d'IA hébergé sur des machines puissantes dans le cloud
-- Rapport qualité de compréhension / temps d'inférence imbatable
+- Rapport qualité de compréhension / temps d'inférence imbattable
 - Temps d'inférence => 1 sec (temps de la requête)
 - Nous intéresse que dans un fonctionnement optimal => optionnel
 
@@ -111,11 +111,11 @@ Le principe de ce module est de retranscrire un texte écrit en une voix qui le 
 - Utilisation de type "discours" => temps d'inférence court
 
 #### Compréhension
-- Audio compréhesible et interprétable pour un humain
+- Audio compréhensible et interprétable pour un humain
 - Voix typé "humaine" et non robotique est un plus 
 
 #### Cas spécifiques
-- Anglicisme en Francais
+- Anglicisme en Français
 - Ponctuation
 - Chiffre  
 - ...
@@ -127,10 +127,10 @@ Le principe de ce module est de retranscrire un texte écrit en une voix qui le 
 - Interface et code python
 
 #### Langues, voix, genre, qualité, émotions...
-- Caractéristique interessante de différentes solution TTS, chacune a ses spécifictiés
+- Caractéristique intéressante de différentes solution TTS, chacune a ses spécifictiés
 - Toutes nous intéresse, il faut peser le pour et le contre de chacune 
 
-#### Communauté, popularité, récence...
+#### Communauté, popularité, récente...
 - Critère important pour choisir une technologie TTS
 
 
