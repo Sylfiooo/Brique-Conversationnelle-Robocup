@@ -1,0 +1,16 @@
+.idea/
+src/stt/modele
+doc/stt/package_STT/ggml-base.en.bin
+
+/build
+/install
+/log
+
+venv/   
+.vscode
+
+**final.wav*
+
+**test.txt*
+
+**__pycache__/*
